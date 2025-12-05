@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Assignment
+public class RiskhawFare
 {
     public static void main (String[] args)
     {

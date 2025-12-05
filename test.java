@@ -7,14 +7,16 @@
  */
 public class test
 {
-    public static void main(String[] args){
-int p = 10;
-int q = ++p + p++ - --p;
-//5,7,6,6
-System.out.println(p);
-System.out.println(q);
-//System.out.println(c);
-//System.out.println(d);
-    
+    public static void main(String[] args)
+    {
+     for(int i=3;i>=0;i--)
+        {
+         for(int j=0;j<=i;j++)
+          {
+           System.out.printf("*"); 
+          }
+          System.out.println();
+        }
+         
     }
 }
