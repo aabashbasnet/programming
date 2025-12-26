@@ -92,13 +92,6 @@ public class main
         Result re3=new Result(99,98,97);
         re3.calculator();
         
-        BankAccount ba1=new BankAccount(1,"Aabash",99999990);
-        ba1.deposit();
-        ba1.withdraw();
-        ba1.display();
-        BankAccount ba2=new BankAccount(2,"Garreb",9);
-        ba2.deposit();
-        ba2.withdraw();
-        ba2.display();
+        
     }
 }
